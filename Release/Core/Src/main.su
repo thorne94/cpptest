@@ -1,0 +1,4 @@
+main.cpp:66:5:int _write(int, char*, int)	8	static
+main.cpp:159:6:void SystemClock_Config()	96	static
+main.cpp:76:5:int main()	72	static
+main.cpp:306:6:void Error_Handler()	0	static

@@ -1,0 +1,2 @@
+ads1115.cpp:14:6:void ads1115::ads1115_config(uint8_t, adsConfig&)	32	static
+ads1115.cpp:34:10:uint16_t ads1115::ads1115_data(uint8_t, adsConfig&)	64	static
